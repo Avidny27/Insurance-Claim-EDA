@@ -73,13 +73,13 @@ This project performs Exploratory Data Analysis (EDA) on an insurance dataset to
 ![Correlation Heatmap](images/Correlation_heatmap.png)
 
 ### Region-wise Claim
-![Region vs Claim](images/Region-wise claims.png)
+![Region vs Claim](images/region_wise_claim.png)
 
 ### Bloodpressure vs Claim
 ![bloodpressure vs claim](images/bloodpressure_vs_claim.png)
 
 ### Smoker vs Claim(based on gender)
-![Smoker vs Claim(gender)](images/smoker_vs_claim(gender based).png)
+![Smoker vs Claim(gender)](images/smoker_vs_claim_(gender based).png)
 
 ## Dataset
 

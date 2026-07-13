@@ -1,4 +1,8 @@
-# Insurance Claim  - Exploratory Data Analysis
+# Insurance Claim Analysis  - Exploratory Data Analysis
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-purple)
 
 ##  Project Overview
 This project performs Exploratory Data Analysis (EDA) on an insurance dataset to uncover patterns affecting medical insurance claim.
@@ -81,9 +85,11 @@ This project performs Exploratory Data Analysis (EDA) on an insurance dataset to
 ### Smoker vs Claim(based on gender)
 ![Smoker vs Claim_gender](images/smoker_vs_claim_gender.png)
 
-## Dataset
+##  Dataset
 
-The dataset used in this project is available on Kaggle:
+The dataset used in this project is available on Kaggle.
+
+**Dataset Link:**
 
 https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demographic-and-health
 
@@ -93,12 +99,12 @@ Download `insurance_data.csv` and place it in the project folder before running 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Avidny27/Insurance-EDA.git
+git clone https://github.com/Avidny27/Insurance-Claim-EDA.git
 ```
 
 2. Navigate to the project folder:
 ```bash
-cd Insurance-EDA
+cd Insurance-Claim-EDA
 ```
 
 3. Install the required libraries:
@@ -112,3 +118,9 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook Insurance_EDA.ipynb
 ```
+
+## 👨‍💻 Author
+
+**Avidny Mestry**
+
+GitHub: https://github.com/Avidny27

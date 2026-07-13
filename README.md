@@ -61,6 +61,26 @@ This project performs Exploratory Data Analysis (EDA) on an insurance dataset to
 - Regional differences exist in the dataset.
 - The dataset contains several high-value claim outliers.
 
+## 📊 Sample Visualizations
+
+### Claim Distribution
+![Claim Distribution](images/claim_distribution.png)
+
+### Smoker vs Claim
+![Smoker vs Claim](images/smoker_vs_claim.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/Correlation_heatmap.png)
+
+### Region-wise Claim
+![Region vs Claim](images/Region-wise claims.png)
+
+### Bloodpressure vs Claim
+![bloodpressure vs claim](images/bloodpressure_vs_claim.png)
+
+### Smoker vs Claim(based on gender)
+![Smoker vs Claim(gender)](images/smoker_vs_claim(gender based).png)
+
 ## Dataset
 
 The dataset used in this project is available on Kaggle:

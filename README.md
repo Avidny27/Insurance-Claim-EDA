@@ -79,7 +79,7 @@ This project performs Exploratory Data Analysis (EDA) on an insurance dataset to
 ![bloodpressure vs claim](images/bloodpressure_vs_claim.png)
 
 ### Smoker vs Claim(based on gender)
-![Smoker vs Claim(gender)](images/smoker_vs_claim_(gender based).png)
+![Smoker vs Claim_gender](images/smoker_vs_claim_gender.png)
 
 ## Dataset
 
